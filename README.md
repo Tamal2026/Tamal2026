@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I believe Learn with fun is more effective than anything**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: tamalkrishna2026@gmail.com</h3>
 <p align="left">
 </p>
 
