@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Tamal Krishna</h1>
+<h1 align="center">Hello 👋, I'm Tamal Krishna</h1>
 <h3 align="center">MERN Stack Developer | Crafting User-Friendly Websites | Open to Collaborate! 🚀✨</h3>
 
 - 🔭 I’m currently working on [Blood Donation](https://blood-donation-6d88f.web.app/)
 
-- 🌱 I’m currently learning **NEXT.js and Redux**
-
 - 🔭 I’m currently working on [Gym Workout](https://gym-workout-silk.vercel.app/)
 
 - 🔭 I’m currently working on [Hotel Booking](https://resort-38518.web.app/)
+- - 🌱 I’m currently learning **NEXT.js and Redux**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-kappa-weld-56.vercel.app](https://portfolio-kappa-weld-56.vercel.app)
 
