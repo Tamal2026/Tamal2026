@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Tamal Krishna</h1>
 <h3 align="center">MERN Stack Developer | Crafting User-Friendly Websites | Open to Collaborate! 🚀✨</h3>
 
-- 🔭 I’m currently working on [Happy Cart (E-commerce)](https://happy-cart-client.vercel.app/)
+* Project No.1 [Happy Cart (E-commerce)](https://happy-cart-client.vercel.app/)
 
-- 🔭 I’m currently working on [Gym Workout](https://gym-workout-silk.vercel.app/)
+* Project No.2 [Gym Workout](https://gym-workout-silk.vercel.app/)
 
 - - 🌱 I’m currently learning **Data Structures and Algorithms**
 
