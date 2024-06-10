@@ -1,18 +1,17 @@
 <h1 align="center">Hello 👋, I'm Tamal Krishna</h1>
 <h3 align="center">MERN Stack Developer | Crafting User-Friendly Websites | Open to Collaborate! 🚀✨</h3>
 
-- 🔭 I’m currently working on [Blood Donation](https://blood-donation-6d88f.web.app/)
+- 🔭 I’m currently working on [Happy Cart (E-commerce)](https://happy-cart-client.vercel.app/)
 
 - 🔭 I’m currently working on [Gym Workout](https://gym-workout-silk.vercel.app/)
 
-- 🔭 I’m currently working on [Hotel Booking](https://resort-38518.web.app/)
-- - 🌱 I’m currently learning **NEXT.js and Redux**
+- - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-kappa-weld-56.vercel.app](https://portfolio-kappa-weld-56.vercel.app)
 
-- 💬 Ask me about **Have Knowldge about Html , Vanila CSS, Tailwind CSS, JavaScript, React, NodeJs,ExpressJs,MongoDB,Firebase**
+- 💬 Ask me about **Have Knowldge about Html , Vanila CSS, Tailwind CSS, JavaScript, React, NodeJs,ExpressJs,MongoDB,Firebase,Typescript, Nextjs**
 
-- 📫 How to reach me **tamalkrishna2026@gmail.com**
+- 📫 How to reach me **tamalkrishnadev@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1LGQbsfghtJQYUx-Px_EUqPGtbMVCo1tt-dLms5J_PCo/edit?usp=sharing](https://docs.google.com/document/d/1LGQbsfghtJQYUx-Px_EUqPGtbMVCo1tt-dLms5J_PCo/edit?usp=sharing)
 
