@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tamalkrishnadev@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1LGQbsfghtJQYUx-Px_EUqPGtbMVCo1tt-dLms5J_PCo/edit?usp=sharing](https://docs.google.com/document/d/1LGQbsfghtJQYUx-Px_EUqPGtbMVCo1tt-dLms5J_PCo/edit?usp=sharing)
+- 📄 Know about my experiences [[https://docs.google.com/document/d/1LGQbsfghtJQYUx-Px_EUqPGtbMVCo1tt-dLms5J_PCo/edit?usp=sharing](https://docs.google.com/document/d/1LGQbsfghtJQYUx-Px_EUqPGtbMVCo1tt-dLms5J_PCo/edit?usp=sharing](https://docs.google.com/document/d/1LGQbsfghtJQYUx-Px_EUqPGtbMVCo1tt-dLms5J_PCo/edit?usp=sharing))
 
 - ⚡ Fun fact **I believe Learn with fun is more effective than anything**
 
