@@ -3,7 +3,7 @@
 
 * Project No.1 [Happy Cart (E-commerce)](https://happy-cart-client.vercel.app/)
 
-* Project No.2 [Gym Workout](https://patient-plus-nextjs-one.vercel.app/)
+* Project No.2 [PaitentPlus(Hospital Management)](https://patient-plus-nextjs-one.vercel.app/)
 
 - - 🌱 I’m currently learning **Data Structures and Algorithms**
 
