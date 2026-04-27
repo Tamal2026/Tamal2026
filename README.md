@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there 👋, I'm Tamal Krishna
+# Hey there 👋, I'm TAMAL KRISHNA
 
 ### Frontend / Full-Stack Developer · Dhaka, Bangladesh
 
