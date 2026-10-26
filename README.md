@@ -109,7 +109,7 @@
 
 ## 📫 Let's Connect
 
-I'm actively looking for **remote junior full-stack or frontend roles**.
+I'm very actively looking for **remote junior full-stack or frontend roles**.
 If you're hiring or want to collaborate, reach out:
 
 **📧** tamalkrishnadev@gmail.com
