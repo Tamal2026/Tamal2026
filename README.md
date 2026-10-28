@@ -120,7 +120,7 @@ If you're hiring or want to collaborate, reach out:
 
 <div align="center">
 
-*"Learning with fun is more effective than anything."* ⚡
+*"Learning with fun is more effective thaan anything."* ⚡
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tamal2026&color=00e5ff&style=flat-square&label=Profile+Views)
 
