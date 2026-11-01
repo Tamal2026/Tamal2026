@@ -59,17 +59,6 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 Happy Cart — E-Commerce Platform
-> Full-stack e-commerce app with Stripe payment, mobile-first design, and 92 Lighthouse score.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=flat-square&logo=vercel&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
-
-- Built with **Next.js + Node.js/Express + MongoDB**
-- Integrated **Stripe payment gateway** — processed 50+ test transactions
-- Optimised for mobile, tablet & desktop · **92 Lighthouse performance score**
-
----
 
 ### 🏥 Patient Plus — Hospital Management System
 > Healthcare appointment system with role-based dashboards for patients, doctors, and admins.
