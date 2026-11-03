@@ -56,11 +56,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-
----
-
 ## 💼 Experience
 
 **Software Engineer Intern — Ticket X** *(Dec 2024 – May 2025)*
