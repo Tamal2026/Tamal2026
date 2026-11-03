@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey there 👋, I'm TAMAL KRISHNA
+# Hey, I'm TAMAL KRISHNA
 
-### Frontend / Full-Stack Developer/ AI - AUTOMATION - Dhaka, Bangladesh
+### Frontend / Full-Stack Developer/ AI - AUTOMATION - Dhaka, Bangladesh.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamalkrishna)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamalkrishnadev@gmail.com)
@@ -58,16 +58,6 @@
 
 ## 🚀 Featured Projects
 
-
-### 🏥 Patient Plus — Hospital Management System
-> Healthcare appointment system with role-based dashboards for patients, doctors, and admins.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=flat-square&logo=vercel&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
-
-- Built with **React + Node.js + MongoDB**
-- **JWT authentication + RBAC** — managed data for 100+ test patients with zero data leaks
-- Features: appointment booking, payment tracking, patient history
 
 ---
 
