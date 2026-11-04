@@ -87,7 +87,7 @@ If you're hiring or want to collaborate, reach out:
 
 **📧** tamalkrishnadev@gmail.com
 **🔗** [linkedin.com/in/tamalkrishna](https://linkedin.com/in/tamalkrishna)
-**🌐** [portfolio-kappa-weld-56.vercel.app](https://portfolio-kappa-weld-56.vercel.app)
+
 
 ---
 
