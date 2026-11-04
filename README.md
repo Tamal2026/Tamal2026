@@ -80,7 +80,7 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect with me
 
 I'm very actively looking for **remote junior full-stack or frontend roles**.
 If you're hiring or want to collaborate, reach out:
