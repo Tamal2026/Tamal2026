@@ -18,7 +18,7 @@
 - 💳 Built production-ready apps with **Stripe payment integration**, **JWT auth**, and **RBAC**
 - 🌱 Currently levelling up in **Data Structures & Algorithms** + **Problem Solving**
 - 🎯 Open to **remote junior full-stack or frontend roles*
-- ⚡ Fun fact — I believe **learning with fun is more effective than anything**
+
 
 ---
 
