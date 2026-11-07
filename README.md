@@ -2,7 +2,7 @@
 
 # Hey, I'm TAMAL KRISHNA
 
-### Frontend / Full-Stack Developer/ AI - AUTOMATION - Dhaka, Bangladesh.
+### Frontend / Full-Stack Developer · AI & Automation (n8n) · Dhaka, Bangladesh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamalkrishna)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamalkrishnadev@gmail.com)
@@ -14,11 +14,11 @@
 ## 👨‍💻 About Me
 
 - 🚀 Software Engineer with **1+ year** of hands-on experience building responsive, scalable web apps
-- 🏢 Former **Software Engineer Intern @ Ticket X** — improved mobile usability by 25%, achieved 90+ Lighthouse score
+- 🤖 Builds **AI-powered workflows and automations with n8n**, connecting APIs, webhooks, databases and LLMs to remove repetitive work
+- 🏢 Former **Software Engineer Intern @ Ticket X**: improved mobile usability by 25%, achieved 90+ Lighthouse score
 - 💳 Built production-ready apps with **Stripe payment integration**, **JWT auth**, and **RBAC**
-- 🌱 Currently levelling up in **Data Structures & Algorithms** + **Problem Solving**
-- 🎯 Open to **remote junior full-stack or frontend roles*
-
+- 🌱 Currently levelling up in **Data Structures & Algorithms** and **Problem Solving**
+- 🎯 Open to **remote junior full-stack, frontend, or AI/automation roles**
 
 ---
 
@@ -44,6 +44,13 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+**AI & Automation**
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-2C3E50?style=flat-square&logo=webhooks&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+
 **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -56,13 +63,34 @@
 
 ---
 
+## 🤖 AI & Automation
+
+I use **n8n** to design workflows that connect apps, APIs and AI models so teams can save time and cut manual work.
+
+**What I can build**
+- 🔗 API and webhook integrations between web apps, CRMs, payment systems and databases
+- 🧠 AI agents and LLM-powered workflows (summarizing, classifying, drafting replies, extracting data)
+- 💬 Chatbots and notifications through Telegram, Slack, WhatsApp and email
+- 📥 Lead capture, form-to-sheet/CRM pipelines and automatic follow-ups
+- 📆 Scheduled reports, data syncing and cleanup jobs
+- 🛡️ Error handling, retries and logging so workflows stay reliable
+
+**Featured automations** *(replace with your own)*
+| Workflow | What it does | Tools |
+|---|---|---|
+| [Workflow name] | [e.g. Captures form leads, enriches them with AI, saves to Google Sheets and pings Telegram] | n8n, Webhooks, LLM API, Google Sheets |
+| [Workflow name] | [e.g. Summarizes incoming emails and drafts replies for approval] | n8n, Gmail, LLM API |
+| [Workflow name] | [e.g. Syncs Stripe payments to a database and sends receipts] | n8n, Stripe, MongoDB |
+
+---
+
 ## 💼 Experience
 
 **Software Engineer Intern — Ticket X** *(Dec 2024 – May 2025)*
-- Developed responsive e-commerce interfaces → improved mobile usability by **25%**
-- Built & integrated REST APIs for ticket booking → reduced data fetch time by **15%**
-- Achieved **90+ Lighthouse score** · lowered bounce rate by 10%
-- Worked in agile team of 3 engineers on two-week sprint cycles
+- Developed responsive e-commerce interfaces, improving mobile usability by **25%**
+- Built and integrated REST APIs for ticket booking, reducing data fetch time by **15%**
+- Achieved a **90+ Lighthouse score** and lowered bounce rate by 10%
+- Worked in an agile team of 3 engineers on two-week sprint cycles
 
 ---
 
@@ -80,20 +108,19 @@
 
 ---
 
-## 📫 Let's Connect with me
+## 📫 Let's Connect
 
-I'm very actively looking for **remote junior full-stack or frontend roles**.
+I'm actively looking for **remote junior full-stack, frontend, or AI/automation roles**.
 If you're hiring or want to collaborate, reach out:
 
 **📧** tamalkrishnadev@gmail.com
 **🔗** [linkedin.com/in/tamalkrishna](https://linkedin.com/in/tamalkrishna)
 
-
 ---
 
 <div align="center">
 
-*"Learning with fun is more effective thaan anything."* ⚡
+*"Learning with fun is more effective than anything."* ⚡
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tamal2026&color=00e5ff&style=flat-square&label=Profile+Views)
 
