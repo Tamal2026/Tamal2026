@@ -77,15 +77,6 @@ I use **n8n** to design workflows that connect apps, APIs and AI models so teams
 - 📆 Scheduled reports, data syncing and cleanup jobs
 - 🛡️ Error handling, retries and logging so workflows stay reliable
 
-**Featured automations** *(replace with your own)*
-| Workflow | What it does | Tools |
-|---|---|---|
-| [Workflow name] | [e.g. Captures form leads, enriches them with AI, saves to Google Sheets and pings Telegram] | n8n, Webhooks, LLM API, Google Sheets |
-| [Workflow name] | [e.g. Summarizes incoming emails and drafts replies for approval] | n8n, Gmail, LLM API |
-| [Workflow name] | [e.g. Syncs Stripe payments to a database and sends receipts] | n8n, Stripe, MongoDB |
-
----
-
 ## 💼 Experience
 
 **Software Engineer Intern — Ticket X** *(Dec 2024 – May 2025)*
