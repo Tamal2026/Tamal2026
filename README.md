@@ -70,12 +70,12 @@
 I use **n8n** to design workflows that connect apps, APIs and AI models so teams can save time and cut manual work.
 
 **What I can build**
-- 🔗 API and webhook integrations between web apps, CRMs, payment systems and databases
-- 🧠 AI agents and LLM-powered workflows (summarizing, classifying, drafting replies, extracting data)
-- 💬 Chatbots and notifications through Telegram, Slack, WhatsApp and email
-- 📥 Lead capture, form-to-sheet/CRM pipelines and automatic follow-ups
-- 📆 Scheduled reports, data syncing and cleanup jobs
-- 🛡️ Error handling, retries and logging so workflows stay reliable
+- 🔗 API and webhook integrations between web apps, CRMs, payment systems and databases.
+- 🧠 AI agents and LLM-powered workflows (summarizing, classifying, drafting replies, extracting data).
+- 💬 Chatbots and notifications through Telegram, Slack, WhatsApp and email.
+- 📥 Lead capture, form-to-sheet/CRM pipelines and automatic follow-ups.
+- 📆 Scheduled reports, data syncing and cleanup jobs.
+- 🛡️ Error handling, retries and logging so workflows stay reliable.
 
 ## 💼 Experience
 
@@ -83,7 +83,7 @@ I use **n8n** to design workflows that connect apps, APIs and AI models so teams
 - Developed responsive e-commerce interfaces, improving mobile usability by **25%**
 - Built and integrated REST APIs for ticket booking, reducing data fetch time by **15%**
 - Achieved a **90+ Lighthouse score** and lowered bounce rate by 10%
-- Worked in an agile team of 3 engineers on two-week sprint cycles
+- Worked in an agile team of 3 engineers on two-week sprint cycles.
 
 ---
 
