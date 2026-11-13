@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/intro.svg" alt="Intro animation" width="100%"/>
+
 
 # Hey, I'm TAMAL KRISHNA
 
