@@ -4,7 +4,7 @@
 
 # Hey, I'm TAMAL KRISHNA
 
-### Frontend / Full-Stack Developer · AI & Automation (n8n) · Dhaka, Bangladesh
+### Frontend / Full-Stack Developer · AI & Automation (n8n) · Dhaka, Bangladesh.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamalkrishna)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamalkrishnadev@gmail.com)
