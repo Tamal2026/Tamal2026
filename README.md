@@ -72,7 +72,7 @@ I use **n8n** to design workflows that connect apps, APIs and AI models so teams
 - 🔗 API and webhook integrations between web apps, CRMs, payment systems and databases.
 - 🧠 AI agents and LLM-powered workflows (summarizing, classifying, drafting replies, extracting data).
 - 💬 Chatbots and notifications through Telegram, Slack, WhatsApp and email.
-- 📥 Lead capture, form-to-sheet/CRM pipelines and automatic follow-ups.
+- 📥 Lead capture, CRM pipelines and automatic follow-ups.
 - 📆 Scheduled reports, data syncing and cleanup jobs.
 - 🛡️ Error handling, retries and logging so workflows stay reliable.
 
