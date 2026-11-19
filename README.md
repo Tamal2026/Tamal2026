@@ -81,7 +81,6 @@ I use **n8n** to design workflows that connect apps, APIs and AI models so teams
 **Software Engineer Intern — Ticket X** *(Dec 2024 – May 2025)*
 - Developed responsive e-commerce interfaces, improving mobile usability by **25%**
 - Built and integrated REST APIs for ticket booking, reducing data fetch time by **15%**
-- Achieved a **90+ Lighthouse score** and lowered bounce rate by 10%
 - Worked in an agile team of 3 engineers on two-week sprint cycles.
 
 ---
