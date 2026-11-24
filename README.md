@@ -102,7 +102,7 @@ I use **n8n** to design workflows that connect apps, APIs and AI models so teams
 ## 📫 Let's Connect
 
 I'm actively looking for **remote junior full-stack, frontend, or AI/automation roles**.
-If you're hiring or want to collaborate, reach out:
+If you're hiring reach out:
 
 **📧** tamalkrishnadev@gmail.com
 **🔗** [linkedin.com/in/tamalkrishna](https://linkedin.com/in/tamalkrishna)
